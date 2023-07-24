@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?00ulugbek00r=DenverCoder1)](https://git.io/streak-stats)
 
 course_work_4
 
